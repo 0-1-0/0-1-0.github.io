@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a98899a-1c8c-44f9-8b65-e32289e17ac0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="2788" column="258" selection-start-line="2788" selection-start-column="258" selection-end-line="2788" selection-end-column="258" />
+            <state relative-caret-position="572">
+              <caret line="2788" column="258" selection-start-line="2788" selection-start-column="244" selection-end-line="2788" selection-end-column="258" />
             </state>
           </provider>
         </entry>
@@ -60,6 +60,7 @@
       <find>+1</find>
       <find>130%</find>
       <find>phoneregionin</find>
+      <find>35%</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -73,8 +74,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3905" />
-    <option name="y" value="2156" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
     <option name="width" value="3775" />
     <option name="height" value="2164" />
   </component>
@@ -125,7 +126,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="3775" height="2164" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.252643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -155,8 +155,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="2788" column="258" selection-start-line="2788" selection-start-column="258" selection-end-line="2788" selection-end-column="258" />
+        <state relative-caret-position="572">
+          <caret line="2788" column="258" selection-start-line="2788" selection-start-column="244" selection-end-line="2788" selection-end-column="258" />
         </state>
       </provider>
     </entry>
