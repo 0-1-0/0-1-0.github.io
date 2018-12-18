@@ -33,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="312" />
+          <entry key="html" value="314" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="312" />
+          <entry key="HTML" value="314" />
         </counts>
       </usages-collector>
     </session>
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="2808" column="243" selection-start-line="2808" selection-start-column="243" selection-end-line="2808" selection-end-column="243" />
+            <state relative-caret-position="712">
+              <caret line="2810" column="273" selection-start-line="2810" selection-start-column="273" selection-end-line="2810" selection-end-column="273" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#path#0;n#svg#0;n#span#0;n#li#1;n#ul#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -3599,8 +3599,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="2808" column="243" selection-start-line="2808" selection-start-column="243" selection-end-line="2808" selection-end-column="243" />
+        <state relative-caret-position="712">
+          <caret line="2810" column="273" selection-start-line="2810" selection-start-column="273" selection-end-line="2810" selection-end-column="273" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#path#0;n#svg#0;n#span#0;n#li#1;n#ul#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
