@@ -1,0 +1,25 @@
+.AccordionList-collapsed + .AccordionList-togglableItems {
+    visibility: hidden;
+    max-height: 0 !important;
+}
+
+.AccordionList-header {
+    cursor: pointer;
+}
+
+.AccordionList-header:hover {
+    color: #1497ff;
+    text-decoration: underline;
+}
+
+.AccordionList-header:hover span {
+    color: black;
+}
+
+.AccordionList-collapsed .actionIconExpand {
+    display: block;
+}
+
+.AccordionList-collapsed .actionIconCollapse {
+    display: none;
+}

@@ -1,0 +1,225 @@
+.promoHeader {
+    font-weight:bold;
+    text-align: center;
+}
+.resumePromoHeader {
+    font-weight: normal;
+}
+.profileQuestionsPromoHeader {
+    text-align:unset;
+    margin-bottom: 8px;
+}
+.profileQuestionsPromoHelpText {
+    text-align:unset;
+    font-size: 14px;
+}
+.postResumePromo {
+    text-align: center;
+    margin-top: 1em;
+    padding: 7px 0;
+}
+.profileQuestionsPromo {
+    padding: 17px 3px;
+    background-color: #e8e8e8;
+}
+.whitePromo {
+    background-color: #fff;
+}
+.appDownloadPromo {
+    text-align: center;
+    margin-top: 1em;
+    padding: 7px 3px;
+}
+
+.appPromoBanner {
+    display: table;
+    width: 100%;
+    padding: 0 15px 0 15px;
+    box-sizing: border-box;
+    background-color: #EFF4FE;
+    -webkit-box-shadow: inset 0px 2px 5px -1px rgba(0,0,0,0.5), inset 0px -2px 5px -1px rgba(0,0,0,0.5);
+    -moz-box-shadow: inset 0px 2px 5px -1px rgba(0,0,0,0.5), inset 0px -2px 5px -1px rgba(0,0,0,0.5);
+    box-shadow: inset 0px 2px 5px -1px rgba(0,0,0,0.5), inset 0px -1px 5px -1px rgba(0,0,0,0.5);
+    font-size: 14px;
+}
+
+.appPromoBanner .col {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 14px 3px 14px 0px;
+}
+.appPromoBanner .col:last-child {
+    padding: 14px 8px;
+}
+
+.appPromoBanner a, .appPromoBanner .col a {
+    text-decoration: none;
+    color: black;
+}
+
+.promoAppInfo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* 1px with to auto-size with the image and padding */
+#appPromoBanner_close_container {
+    width: 1px;
+    padding: 14px 3px;
+}
+
+#appPromoBanner_icon_container {
+    width: 1px;
+}
+
+#appPromoBanner_icon_container #appPromoBanner_icon {
+    width: 58px;
+    height: 58px;
+}
+
+/* 100% to fill the 3rd column to the max */
+#appPromoBanner_text {
+    width: 100%;
+}
+
+#appPromoBanner_text .promoTitle {
+    font-weight: bold;
+}
+
+/* 1px with to auto-size with the image and padding */
+#appPromoBanner_view_link_container {
+    width:1px;
+}
+
+#appPromoBanner_view_link_container #appPromoBanner_view_link {
+    font-weight: bold;
+    color: #6580F4;
+
+}
+
+.pinnedPromoTst_contentContainer {
+    position: relative;
+    top: 89px;
+}
+
+.pinnedPromoTst_appPromoBanner {
+    height: 89px;
+    position: fixed;
+    z-index: 1000;
+}
+
+.surveyPromoLink {
+    border: #DCDEE3 solid;
+    border-width: 14px;
+    position: relative;
+    text-decoration: none;
+    color: #000000;
+    display: block;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    padding-right: 15px;
+}
+
+.surveyPromo {
+    display: table;
+}
+
+.surveyPromo > div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.surveyPromoHeader {
+    margin-top: 15px;
+    color: #2164F3;
+    font-weight: bold;
+}
+
+.surveyPromoText {
+    font-size: 0.8em;
+    margin-bottom: 15px;
+}
+
+.profileCreateTOSText{
+    font-size: smaller;
+    color: #666;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profileQuestionsPromo .profileQuestionsButton {
+    margin-top: 14px;
+}
+
+#profileQuestionsQuestionInputs .icl-Checkbox-item, .infoSelect {
+    border: 1px solid lightgray;
+    padding: 7px;
+    background: white;
+    margin-bottom: -1px;
+}
+
+#profileQuestionsQuestionInputs input[type="radio"], input[type="checkbox"] {
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+
+#profileQuestionsQuestionInputs label {
+    display: block;
+    width: 100%;
+    padding-top: 1px;
+}
+
+#profileQuestionsQuestionInputs {
+    margin-top: 14px;
+}
+
+#profileQuestionsPromo .profileQuestionsErrorText {
+    margin-bottom: 12px;
+}
+
+.emailConfirmationPromo {
+    background-color: #FFFBDE;
+    padding: 16px;
+    font-size: 14px;
+    position: relative;
+}
+
+.emailConfirmationHeader {
+    margin-bottom: 9px;
+    margin-right: 80px;
+}
+
+.emailConfirmationText {
+    margin-bottom: 6px;
+}
+
+.emailConfirmationText .accountEmail {
+    font-weight: bold;
+}
+
+.emailConfirmationPromoLinkContainer {
+    margin-top: 9px;
+}
+
+.emailConfirmationPromoLink {
+    font-weight: bold;
+    text-decoration: none;
+    color: #085FF7;
+    white-space: nowrap;
+}
+
+.emailConfirmationCloseButtonContainer {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.emailConfirmationCloseButtonContainer .emailConfirmationCloseButton {
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/%3E%3C/svg%3E") no-repeat center;
+    -webkit-background-size: 24px;
+    background-size: 24px;
+}
